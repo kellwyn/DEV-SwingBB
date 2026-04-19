@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.ex5
+*.pdf
+.DS_Store
+Thumbs.db
+lab_output/
